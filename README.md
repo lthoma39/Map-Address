@@ -7,4 +7,5 @@ Created a simple app that displays an address on a map after entering an address
 Design and implement an app that contains two activities. The main activity contains a welcome text (not editable) and two buttons. Upon pressing the button labeled “Address”, the app displays a second activity containing a read-only text field and an edit text field. The read-only text field prompts the device user to enter a street address in the edit text field. When the user is done entering the address, they will press the done or return key in the soft keyboard.
 
 # Tasks
-[x] Upon pressing the button labeled “Address”, the app displays a second activity.
+- [x] Upon pressing the button labeled “Address”, the app displays a second activity.
+- [x] User should see the app icon 
